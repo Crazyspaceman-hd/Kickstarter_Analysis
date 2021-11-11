@@ -13,4 +13,4 @@
 
 3. What are some other possible tables and/or graphs that we could create?
 
-    We could create a new column with the length of the campaign. It would be interesting to see if longer campaigns effected the likelyhood of success. It would alsot be interesting to analyze how many campaigns received significantly higher funding than their goal.
+    We could create a new column with the length of the campaign. It would be interesting to see if longer campaigns effected the likelyhood of success. It would also be interesting to analyze how many campaigns received significantly higher funding than their goal.
